@@ -1,6 +1,6 @@
 LinkedIn Post Link : 
+https://www.linkedin.com/posts/gyan-singh-3355821ab_mlops-task1-righteducation-activity-6703903151843495936-1CP6
 
-https://www.linkedin.com/posts/whytedork_session8abrdevopsabrtask-righteducation-rightmentor-activity-6664042084539998208-M1bT/
 
 # Problem Statement :
 + create 3 jobs in jenkins named as job1, job2 , job3
